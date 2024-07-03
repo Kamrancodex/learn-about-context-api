@@ -7,10 +7,7 @@ Elegant Context is a React-based application that showcases a product listing wi
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Scripts](#scripts)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
